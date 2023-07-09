@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="align:center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranay2173&hide=html,scss&layout=compact&theme=radical" />
+<div style="align:center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranay-bhandari&hide=html,scss&layout=compact&theme=radical" />
 <img src="https://streak-stats.demolab.com/?user=pranay2173&theme=algolia" />
 </div>
