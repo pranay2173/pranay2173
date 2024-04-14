@@ -25,6 +25,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/portfolio-purple?style=for-the-badge&logo=none&logoColor=white" alt="Portfolio Badge"/>
   </a> -->
 </div>
-<div style="align:center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranay-bhandari&hide=html,scss&layout=compact&theme=radical" />
+<div style="align:center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranay-bhandari&hide=html,scss&layout=compact&theme=radical" /n>
 <img src="https://streak-stats.demolab.com/?user=pranay-bhandari&theme=algolia" />
 </div>
