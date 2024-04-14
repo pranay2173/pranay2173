@@ -26,11 +26,10 @@ Here are some ideas to get you started:
   </a> -->
 </div>
 
-<div style="align:center">
+<!-- <div style="align:center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranay-bhandari&hide=html,scss&layout=compact&theme=radical" />
-</div>
+</div>/-->
 
-<div style="align:center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranay-bhandari&hide=html,scss&layout=compact&theme=radical" /> -->
+<div style="align:center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranay-bhandari&hide=html,scss&layout=compact&theme=radical" />
 <img src="https://streak-stats.demolab.com/?user=pranay-bhandari&theme=algolia" />
 </div>
