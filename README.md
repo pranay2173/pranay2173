@@ -26,7 +26,9 @@ Here are some ideas to get you started:
   </a> -->
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranay-bhandari&hide=html,scss&layout=compact&theme=radical" /></p>
+<div style="align:center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranay-bhandari&hide=html,scss&layout=compact&theme=radical" />
+</div>
 
 <div style="align:center">
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranay-bhandari&hide=html,scss&layout=compact&theme=radical" /> -->
